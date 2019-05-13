@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tabs Component renders the first tab by default 1`] = `
+<div>
+  <button>
+    First tab
+  </button>
+  <button>
+    Second tab
+  </button>
+  <button>
+    Third tab
+  </button>
+  <div
+    className="content"
+  >
+    Don Rickles Speaks! is a comedy album released in 1969 by insult comic Don Rickles.
+  </div>
+</div>
+`;
