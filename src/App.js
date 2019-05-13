@@ -10,6 +10,7 @@ const tabsProp = [
 function App() {
   return (
     <main className='App'>
+      <img src="https://images-na.ssl-images-amazon.com/images/I/513V5GGJGBL._SY355_.jpg" alt="Don Rickles Speaks!" />
       <Tabs tabs={tabsProp} />
     </main>
   );
